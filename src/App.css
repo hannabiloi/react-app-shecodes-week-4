@@ -1,0 +1,9 @@
+.App {
+  font-family: "Comfortaa", cursive;
+  text-align: center;
+  max-width: 500px;
+  border: 2px solid #d3d6db;
+  border-radius: 6px;
+  padding: 20px;
+  margin: 50px auto;
+}
